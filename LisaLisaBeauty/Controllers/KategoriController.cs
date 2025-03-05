@@ -2,7 +2,7 @@
 
 namespace LisaLisaBeauty.Controllers
 {
-    public class Kategori : Controller
+    public class KategoriController : Controller
     {
         public IActionResult Index()
         {
